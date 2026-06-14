@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# It's after hours, and now it our chance to...
+# It's after hours, and now its our chance to...
 
 <!--
 
